@@ -1,5 +1,7 @@
 portfolio-with-markdown
-# Portfolio
+# PortFolio
+
+## 自己紹介
 
 - 望月翔
 - 連絡先 Email [mochiduki.dat21@gmail.com](mailto:mochiduki.dat21@gmail.com)
@@ -8,16 +10,16 @@ portfolio-with-markdown
 ## スキル
 - C#
   - 利用歴1年
-  - どの程度使えるか
+  - 基礎
 - Unity
   - 利用歴1年
-  - どの程度使えるか
+  - 基礎
 - C/C++
   - 利用歴1年
-  - どの程度使えるか
+  - 基礎
 - cluster
   - 利用歴1年
-  - どの程度使えるか
+  - 基礎
 
 ## 取り組んでいるテーマ
 - ゲーム制作基礎能力向上
